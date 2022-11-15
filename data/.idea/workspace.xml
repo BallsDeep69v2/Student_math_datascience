@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fac2be69-99ce-461b-9527-fcfef1120d9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Students_Math/.idea/Students_Math.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Students_Math/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Students_Math/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Students_Math/data/student-math.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Students_Math/students-math.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Numpy/numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Numpy/numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Numpy/pandas-salaries.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Numpy/pandas-salaries.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rest Staff/src/main/java/at/htlstp/rest_staff/persistence/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rest Staff/src/main/java/at/htlstp/rest_staff/persistence/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rest Staff/src/test/java/at/htlstp/rest_staff/EmployeeApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rest Staff/src/test/java/at/htlstp/rest_staff/EmployeeApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angabe (1)/Pokemon_scre_labor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/angabe (1)/Pokemon_scre_labor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angabe (1)/Pokemon_scre_labor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/angabe (1)/Pokemon_scre_labor/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angabe (1)/pokemon_labor_scre/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angabe (1)/pokemon_labor_scre/pokemon_labor_scre.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modLIB/modLIB/src/main/java/http/HttpConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/modLIB/modLIB/src/main/java/http/HttpConnection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Students_Math" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GO2x6h9ckQ8Cl59vWCiatUSszj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Schule/5. Schuljahr/POS/DataScience/Students_Math",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Schule\5. Schuljahr\POS\Data_Science\Numpy\data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

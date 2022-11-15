@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Downloads.iml" filepath="$PROJECT_DIR$/.idea/Downloads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Numpy/.idea/Numpy.iml" filepath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Numpy/.idea/Numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/Data_Science/Numpy Pandas/.idea/Numpy Pandas.iml" filepath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/Data_Science/Numpy Pandas/.idea/Numpy Pandas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Students_Math/.idea/Students_Math.iml" filepath="$PROJECT_DIR$/../../../Schule/5. Schuljahr/POS/DataScience/Students_Math/.idea/Students_Math.iml" />
+    </modules>
+  </component>
+</project>
